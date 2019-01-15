@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DeckTester
+comment0.text=\r\n\ Pooja\ Nadkarni\r\n\ Period\ 1\r\n\ 11/30/17\r\n\ \r\n\ This\ lab\ took\ me\ around\ an\ hour.\r\n\ \r\n\ This\ program\ went\ well\ for\ me.\ I\ was\ able\ to\ select\ an\ ArrayList\ to\ use\r\n\ as\ a\ Deck,\ and\ I\ could\ complete\ the\ necessary\ methods\ for\ each\ class.\ I\ \r\n\ was\ also\ able\ to\ understand\ how\ Solitaire\ is\ played\ so\ that\ I\ would\ have\r\n\ some\ idea\ of\ how\ to\ code\ it\ in\ the\ future.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

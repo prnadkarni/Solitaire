@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Pooja\ Nadkarni\r\n\ Period\ 1\r\n\ 11/30/17\r\n\ \r\n\ This\ lab\ took\ me\ around\ an\ hour.\r\n\ \r\n\ This\ program\ went\ well\ for\ me.\ I\ was\ able\ to\ select\ an\ ArrayList\ to\ use\r\n\ as\ a\ Deck,\ and\ I\ could\ complete\ the\ necessary\ methods\ for\ each\ class.\ I\ \r\n\ was\ also\ able\ to\ understand\ how\ Solitaire\ is\ played\ so\ that\ I\ would\ have\r\n\ some\ idea\ of\ how\ to\ code\ it\ in\ the\ future.\r\n\ \r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Creates\ a\ new\ <code>Deck</code>\ instance.\r\n\r\n
+comment2.params=deckString
+comment2.target=Deck(java.lang.String)
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ Randomly\ shuffles\ the\ contents\ of\ this\ Deck.\r\n
+comment4.params=card
+comment4.target=void\ add(Card)
+comment4.text=\r\n\ Adds\ a\ new\ <code>Card</code>\ value\ to\ the\ Deck.\r\n\r\n\ @param\ add,\ a\ <code>Card</code>\ value\ to\ add\ to\ the\ Deck\r\n\ \r\n
+comment5.params=index
+comment5.target=Card\ getCard(int)
+comment5.text=\r\n\ Returns\ the\ ArrayList\ that\ represents\ the\ Deck\ of\ Cards\r\n\r\n\ @return\ an\ <code>ArrayList</code>\ that\ represents\ the\ Deck\ of\ Cards\r\n
+comment6.params=
+comment6.target=java.lang.String\ deckSaveToString()
+comment7.params=index
+comment7.target=void\ removeCard(int)
+comment8.params=
+comment8.target=int\ size()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ Returns\ this\ Deck\ as\ a\ String,\ with\ each\ Card\ represented\ in\ an\ \r\n\ ArrayList.\r\n\r\n\ @return\ a\ <code>String</code>\ containing\ the\ symbol\ and\ point\r\n\ \ \ \ \ \ \ \ \ value\ of\ each\ card\ in\ the\ Deck.\r\n
+numComments=10
